@@ -1,6 +1,6 @@
 READ ME
 
------You need to specify your rcrack, john, perl, and rainbow table directories in the script-----
+-You need to specify your rcrack, john, perl, and rainbow table directories in the script-
 
 Usage: PS_MultiCrack.ps1 INPUT_FILE OUTPUT_FILE
 
